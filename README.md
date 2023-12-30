@@ -2,7 +2,7 @@
 This application was created using Java Swing and MySQL, and built with NetBeans for an easy and enjoyable quiz experience!
 
 #### Click to see the Full GIF
-//![RealMadrid Quiz](./gif-quiz/quiz-java.gif)
+![RealMadrid Quiz](./gif-quiz/quiz-java.gif)
 
 # Running the Application
 
